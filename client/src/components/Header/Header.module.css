@@ -1,0 +1,12 @@
+.headerWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(26, 44, 56);
+    padding: 1rem 0;
+
+    .container {
+        display: flex;
+    }
+}

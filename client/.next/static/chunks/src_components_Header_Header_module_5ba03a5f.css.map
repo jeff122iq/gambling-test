@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/admin/WebstormProjects/gambling-test/client/src/components/Header/Header.module.css"],"sourcesContent":[".headerWrapper {\n    width: 100%;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    background: rgb(26, 44, 56);\n}"],"names":[],"mappings":"AAAA","debugId":null}}]
+}

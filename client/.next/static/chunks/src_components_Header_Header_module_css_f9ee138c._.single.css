@@ -1,0 +1,15 @@
+/* [project]/src/components/Header/Header.module.css [app-client] (css) */
+.Header-module__ldgnoG__headerWrapper {
+  background: #1a2c38;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 1rem 0;
+  display: flex;
+}
+
+.Header-module__ldgnoG__headerWrapper .Header-module__ldgnoG__container {
+  display: flex;
+}
+
+/*# sourceMappingURL=src_components_Header_Header_module_css_f9ee138c._.single.css.map*/

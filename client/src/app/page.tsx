@@ -1,7 +1,5 @@
+import { Dashboard } from '@/pageContainers/Dashboard/Dashboard';
+
 export default function Home() {
-  return (
-    <div>
-        dsdsd
-    </div>
-  );
+  return <Dashboard />;
 }

@@ -7,6 +7,15 @@
     padding: 1rem 0;
 
     .container {
+        width: 100%;
+        max-width: 1200px;
         display: flex;
+        justify-content: space-between;
+        align-items: center;
+      
+        .buttonWrapper {
+            display: flex;
+            gap: 1rem;
+        }
     }
 }

@@ -1,13 +1,16 @@
 .dashboardWrapper {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  .container {
     width: 100%;
-    max-width: 1200px;
     display: flex;
+    flex-direction: column;
+    align-items: center;
 
-  }
+    .container {
+        width: 100%;
+        max-width: 1500px;
+        height: 100%;
+        display: flex;
+        gap: 50px;
+        margin-top: 20px;
+        overflow: hidden;
+    }
 }

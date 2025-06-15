@@ -13,4 +13,9 @@
     &.secondary {
         background-color: #2f4553;
     }
+
+    &.bordered {
+        border: 2px solid #ffffff;
+        background: transparent;
+    }
 }

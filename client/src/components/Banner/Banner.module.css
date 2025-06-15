@@ -1,0 +1,54 @@
+.bannerWrapper {
+    height: 240px;
+    background: rgb(33, 55, 67);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+
+    .descriptionWrapper {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 20px;
+        margin-top: 50px;
+
+        .status {
+            background-color: #ffffff;
+            padding: 0 10px;
+            border-radius: 5px;
+        }
+
+        .title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #ffffff;
+        }
+
+        .description {
+            font-size: 16px;
+            font-weight: bold;
+            color: rgba(255, 255, 255, 0.51);
+        }
+
+        .button {
+            margin-top: auto;
+        }
+    }
+
+    .imageWrapper {
+        width: 100%;
+        max-width: 220px;
+        height: 220px;
+        overflow: hidden;
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+}

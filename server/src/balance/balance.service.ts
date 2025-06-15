@@ -4,7 +4,7 @@ import { BalanceGateway } from './balance.gateway';
 
 @Injectable()
 export class BalanceService {
-  private redis = new Redis();
+  private redis = new Redis({ host: 'localhost', port: 6379 });
 
   constructor(private readonly gateway: BalanceGateway) {}
 

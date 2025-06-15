@@ -41,4 +41,8 @@ table {
   max-width: 1200px;
 }
 
+.swiper-wrapper {
+  width: 100%;
+}
+
 /*# sourceMappingURL=src_app_globals_css_f9ee138c._.single.css.map*/

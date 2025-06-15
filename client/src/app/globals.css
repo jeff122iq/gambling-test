@@ -59,3 +59,7 @@ table {
     width: 100%;
     max-width: 1200px;
 }
+
+.swiper-wrapper {
+    width: 100%;
+}
